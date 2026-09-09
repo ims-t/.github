@@ -1,1 +1,1 @@
-# .github
+# Organization wide settings
