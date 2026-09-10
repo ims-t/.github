@@ -8,4 +8,8 @@ type: Epic
 
 ---
 
-
+# Ziel 
+<!--Was soll mit diesem Epic erreicht werden?-->
+---
+# Nutzen
+<!--Was für ein Nutzen bringt die Umsetzung-->

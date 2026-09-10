@@ -8,4 +8,8 @@ type: Feature
 
 ---
 
-
+# Beschreibung 
+<!--Welche Funktion soll hinzugefügt werden?-->
+---
+# Nutzen
+<!--Was für ein Nutzen hat das Feature-->
