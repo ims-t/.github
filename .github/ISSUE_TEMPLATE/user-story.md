@@ -9,7 +9,7 @@ type: User Story
 ---
 
 # User Story 
-<!--Als...Möchte ich...damit...-->
+<!--Als...möchte ich...damit...-->
 ---
 # Akzeptanzkriterien
 <!--Wann gilt die User Story als vollständig umgesetzt?-->
