@@ -8,9 +8,6 @@ type: Bug
 
 ---
 
-# Titel
-<!--Beschreibe kurz und verständlich, was nicht funktioniert.-->
----
 # Beobachtetes Verhalten
 <!--Beschreibe das beobachtete Verhalten und füge, falls nötig, einen Screenshot ein.-->
 ---
